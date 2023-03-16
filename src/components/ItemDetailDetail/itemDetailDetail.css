@@ -1,0 +1,16 @@
+.boxItem {
+    border-style: 3px solid black;
+    padding: 10px;  
+    float: left;
+    width: 100%;
+}
+
+.normalImage {
+    width: 500px;
+    height: 500px;
+}
+
+
+.textCenter {
+    text-align: center;
+}
